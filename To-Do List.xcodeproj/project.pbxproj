@@ -14,6 +14,7 @@
 		E150D30026B1B1E3003B9977 /* To_Do_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E150D2FF26B1B1E3003B9977 /* To_Do_ListTests.swift */; };
 		E150D30B26B1B1E3003B9977 /* To_Do_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E150D30A26B1B1E3003B9977 /* To_Do_ListUITests.swift */; };
 		E150D31926B1B82D003B9977 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = E150D31826B1B82D003B9977 /* ToDoList.swift */; };
+		E150D31B26B1B919003B9977 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E150D31A26B1B919003B9977 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E150D30A26B1B1E3003B9977 /* To_Do_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITests.swift; sourceTree = "<group>"; };
 		E150D30C26B1B1E3003B9977 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E150D31826B1B82D003B9977 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		E150D31A26B1B919003B9977 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				E150D2ED26B1B1E0003B9977 /* To_Do_ListApp.swift */,
 				E150D2EF26B1B1E0003B9977 /* ContentView.swift */,
+				E150D31A26B1B919003B9977 /* AddItemView.swift */,
 				E150D31826B1B82D003B9977 /* ToDoList.swift */,
 				E150D2F126B1B1E3003B9977 /* Assets.xcassets */,
 				E150D2F626B1B1E3003B9977 /* Info.plist */,
@@ -265,6 +268,7 @@
 				E150D2F026B1B1E0003B9977 /* ContentView.swift in Sources */,
 				E150D31926B1B82D003B9977 /* ToDoList.swift in Sources */,
 				E150D2EE26B1B1E0003B9977 /* To_Do_ListApp.swift in Sources */,
+				E150D31B26B1B919003B9977 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
